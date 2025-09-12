@@ -1,4 +1,4 @@
-# 📊 Financial Analysis Project
+# 📊 Financial Analytics Automation Dashboard
 
 <img src="images/logo.png" alt="Financial Analysis Logo" width="150"/>
 
