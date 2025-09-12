@@ -1,5 +1,7 @@
 # 📊 Financial Analysis Project
 
+<img src="images/logo.png" alt="Financial Analysis Logo" width="150"/>
+
 This project demonstrates **end-to-end financial analytics automation and visualization** using **Power BI, Power Query, Python, and Google Cloud Platform (GCP)**.  
 It solves **real-world business problems** by automating data ingestion, cleaning, transformation, and building interactive dashboards.
 
@@ -23,6 +25,9 @@ It solves **real-world business problems** by automating data ingestion, cleanin
 ## ⚡ Workflow Automation
 
 The automated pipeline:
+
+<img src="images/workflow.png" alt="Workflow Pipeline" width="600"/>
+
 
 ```
 Email → Power Automate → Google Drive → GCP API → Python Script → Power BI
